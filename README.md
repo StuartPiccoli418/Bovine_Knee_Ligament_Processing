@@ -11,3 +11,6 @@
 %Note XX = X' YY = Y' ZZ = Z', Make sure the file is in .csv
 
 %Load Constant = 1865.5
+
+More comments in the code 
+-Stuart Piccoli 8/11/25
